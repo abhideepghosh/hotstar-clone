@@ -32,7 +32,7 @@ const Navbar = () => {
     // const searchBox = document.querySelector(".search-box");
     // console.log(searchBox);
     const searchResults = document.querySelector(".search-results");
-    console.log(event.target.value);
+    // console.log(event.target.value);
     if (event.target.value === "") {
       if (!searchResults.classList.contains("hidden")) {
         searchResults.classList.add("hidden");
