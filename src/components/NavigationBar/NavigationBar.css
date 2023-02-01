@@ -193,6 +193,7 @@ li > .dropdown-menu {
   display: none !important;
 }
 .search-results {
+  margin-top: -17px;
   color: white;
   text-align: center;
   width: 91%;
