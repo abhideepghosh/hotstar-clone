@@ -1,6 +1,5 @@
 # Disney Hotstar Clone
 
-Project Built By Abhideep Ghosh And Swati Sharma.
 Site Live At: https://hotstar-clone-reactjs.netlify.app/
 
 ## Languages Used
